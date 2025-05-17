@@ -5,15 +5,15 @@ To write a python program to implement pattern matching on the given string usin
 
 ## Algorithm:
 
-1. Initialize lengths
+ 1. Initialize lengths
 
-3. Slide the pattern over the text
+ 2. Slide the pattern over the text
 
-3.Check for match at each position
+ 3.Check for match at each position
 
-4.If full pattern matched
+ 4.If full pattern matched
 
-5.No match found
+ 5.No match found
 
 ## Program:
 ```
