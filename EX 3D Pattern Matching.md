@@ -6,9 +6,9 @@ To write a python program to implement pattern matching on the given string usin
 ## Algorithm:
 
 1. Initialize lengths
-2. 
+
 3. Slide the pattern over the text
-4. 
+
 3.Check for match at each position
 
 4.If full pattern matched
