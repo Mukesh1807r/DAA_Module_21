@@ -6,11 +6,17 @@ To write a python program to find minimum steps to reach to specific cell in min
 ## Algorithm:
 
 1.Initialize a queue for BFS that stores (x, y, distance).
+
 2.Track visited cells using a 2D array or a set.
+
 3.Define the 8 possible knight moves
+
 4.Start BFS from the initial position.
+
 5.For each move, if the new position is valid and not visited, add it to the queue.
+
 6.If the target is reached, return the number of moves taken.
+
 7.If the queue is exhausted without reaching the target, return -1 (unreachable).
 
 ## Program:
